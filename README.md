@@ -3,7 +3,8 @@
 - 👀 I’m interested in IA and cybersecurity ...
 - 💞️ I’m looking to collaborate on whatever...
 - 📫 How to reach me: rmontero30679@gmail.com...
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kouriin1&theme=tokyonight)
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kouriin1&theme=tokyonight)]
 
 <!---
 Kouriin1/Kouriin1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
