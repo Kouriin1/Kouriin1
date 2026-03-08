@@ -17,7 +17,7 @@ Hi! I'm a Systems Engineering student and Web Developer. I'm passionate about bu
 * 🎮 **Off the Keyboard:** When I'm not writing code or designing databases, I'm probably unplugging, training, or studying new technologies ;).
 
 <div align="center">
-  <h3>💻 Mis Tecnologías 💻</h3>
+  <h3>💻 My Technologies 💻</h3>
   <br>
   
   <a href="https://skillicons.dev">
