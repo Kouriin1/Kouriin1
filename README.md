@@ -12,7 +12,7 @@ Hi! I'm a Systems Engineering student and Web Developer. I'm passionate about bu
 
 * ⚙️ **Evolving:** I'm currently focusing my studies on DevOps culture and tools to master the software development lifecycle.
 
-* 🤖 **Exploring:** I'm integrating practical AI solutions into my workflow thanks to my recent certification from the Vjal Institute.
+* 🤖 **Exploring:** I'm integrating practical AI solutions into my workflow.
 
 * 🎮 **Off the Keyboard:** When I'm not writing code or designing databases, I'm probably unplugging, training, or studying new technologies ;).
 
